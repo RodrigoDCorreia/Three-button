@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">first screen</string>
+    <string name="first_activity_name">first Activity</string>
+    <string name="button_one_main">Button One</string>
+    <string name="button_two_main">button_two</string>
+    <string name="button_three_main">button_three</string>
+</resources>
